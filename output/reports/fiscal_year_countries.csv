@@ -1,0 +1,17 @@
+Country Code,TableName,Region,IncomeGroup
+CAN,Canada,North America,High income
+FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,Lower middle income
+IDN,Indonesia,East Asia & Pacific,Upper middle income
+JPN,Japan,East Asia & Pacific,High income
+KEN,Kenya,Sub-Saharan Africa,Lower middle income
+LSO,Lesotho,Sub-Saharan Africa,Lower middle income
+MHL,Marshall Islands,East Asia & Pacific,Upper middle income
+NAM,Namibia,Sub-Saharan Africa,Upper middle income
+NZL,New Zealand,East Asia & Pacific,High income
+PLW,Palau,East Asia & Pacific,High income
+PRI,Puerto Rico,Latin America & Caribbean,High income
+SGP,Singapore,East Asia & Pacific,High income
+SWE,Sweden,Europe & Central Asia,High income
+SWZ,Eswatini,Sub-Saharan Africa,Lower middle income
+THA,Thailand,East Asia & Pacific,Upper middle income
+ZAF,South Africa,Sub-Saharan Africa,Upper middle income

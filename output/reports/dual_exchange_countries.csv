@@ -1,0 +1,30 @@
+Country Code,TableName,Region,IncomeGroup
+AFG,Afghanistan,South Asia,Low income
+AGO,Angola,Sub-Saharan Africa,Lower middle income
+ARG,Argentina,Latin America & Caribbean,Upper middle income
+BDI,Burundi,Sub-Saharan Africa,Low income
+CHN,China,East Asia & Pacific,Upper middle income
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Low income
+EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income
+ERI,Eritrea,Sub-Saharan Africa,Low income
+GHA,Ghana,Sub-Saharan Africa,Lower middle income
+GTM,Guatemala,Latin America & Caribbean,Upper middle income
+HND,Honduras,Latin America & Caribbean,Lower middle income
+IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income
+KHM,Cambodia,East Asia & Pacific,Lower middle income
+LAO,Lao PDR,East Asia & Pacific,Lower middle income
+LBN,Lebanon,Middle East & North Africa,Lower middle income
+MMR,Myanmar,East Asia & Pacific,Lower middle income
+MNG,Mongolia,East Asia & Pacific,Upper middle income
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income
+NIC,Nicaragua,Latin America & Caribbean,Lower middle income
+PER,Peru,Latin America & Caribbean,Upper middle income
+PRY,Paraguay,Latin America & Caribbean,Upper middle income
+ROU,Romania,Europe & Central Asia,High income
+SDN,Sudan,Sub-Saharan Africa,Low income
+SOM,Somalia,Sub-Saharan Africa,Low income
+SUR,Suriname,Latin America & Caribbean,Upper middle income
+SYR,Syrian Arab Republic,Middle East & North Africa,Low income
+UGA,Uganda,Sub-Saharan Africa,Low income
+YEM,"Yemen, Rep.",Middle East & North Africa,Low income
+ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income
