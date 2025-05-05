@@ -110,10 +110,6 @@ The analysis generates:
    - Currency change tracking 💱
    - Note length analysis 📏
 
-## 👥 Contributors
-
-- Muhamad Ammar 👨💻 - Lead Developer
-
 ## ⚖️ License
 
 MIT License © 2023
